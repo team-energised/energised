@@ -15,6 +15,7 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+        <iframe src="https://energised.retool.com/apps/energised/smart-platform-mobile-webapp" width="100%" height="100%"></iframe>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
